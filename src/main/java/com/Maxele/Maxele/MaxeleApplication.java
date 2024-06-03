@@ -2,6 +2,7 @@ package com.Maxele.Maxele;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -9,6 +10,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.lang.reflect.Type;
 import java.util.*;
+import org.slf4j.Logger;
 
 @SpringBootApplication
 public class MaxeleApplication {
@@ -16,6 +18,8 @@ public class MaxeleApplication {
 	private static double maxaltitudine = Double.MIN_VALUE;
 	private static List<String> bestpath = new ArrayList<>();
 	private static Graph graph;
+	private static final Logger logger = LoggerFactory.getLogger(MaxeleApplication.class);
+
 	public static void main(String[] args) {
 		SpringApplication.run(MaxeleApplication.class, args);
 		System.out.println("prova");
@@ -34,6 +38,9 @@ public class MaxeleApplication {
 
 
 			List<String> bestPath = findMaximumPaths("462648177", "462646721");
+
+			logger.info("Best path with maximum elevation gain: " + bestPath);
+			logger.info("Maximum elevation gain: " + maxaltitudine + " meters");
 			System.out.println("Best path with maximum elevation gain: " + bestPath);
 			System.out.println("Maximum elevation gain: " + maxaltitudine + " meters");
 
@@ -52,6 +59,7 @@ public class MaxeleApplication {
 		if (currentNode.equals(endNode)) {
 			contatrovate++;
 			if (contatrovate % 10000 == 0) {
+				logger.info("Paths found: " + contatrovate);
 				System.out.println("Paths found: " + contatrovate);
 			}
 			List<Double> tempele = getelevazioneroute(currentPath);
@@ -59,6 +67,7 @@ public class MaxeleApplication {
 			if (tempeletotale > maxaltitudine) {
 				maxaltitudine = tempeletotale;
 				bestpath = new ArrayList<>(currentPath);
+				logger.info("New best elevation gain: " + maxaltitudine + " meters");
 				System.out.println("New best elevation gain: " + maxaltitudine + " meters");
 			}
 			return;
