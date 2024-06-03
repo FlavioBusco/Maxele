@@ -24,6 +24,7 @@ EXPOSE 8080
 
 # Copia il file JAR dalla fase di build
 COPY --from=build /app/build/libs/Maxele-1.jar app.jar
+COPY --from=build /app/graph.json graph.json
 
 # Imposta il comando di avvio
 ENTRYPOINT ["java", "-jar", "app.jar"]
