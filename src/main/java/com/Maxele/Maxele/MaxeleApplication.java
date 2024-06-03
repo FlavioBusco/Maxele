@@ -21,7 +21,7 @@ public class MaxeleApplication {
 		System.out.println("prova");
 		Gson gson = new Gson();
 
-		try (FileReader reader = new FileReader("src/main/resources/graph.json")) {
+		try (FileReader reader = new FileReader("graph.json")) {
 			Type graphType = new TypeToken<Map<String, Node>>(){}.getType();
 			Map<String, Node> nodes = gson.fromJson(reader, graphType);
 
