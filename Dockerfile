@@ -12,4 +12,4 @@ EXPOSE 8080
 
 COPY --from=build /build/libs/Maxele-1.jar app.jar
 
-ENTRYPOINT ["java", "-jar", "appgit .jar"]
+ENTRYPOINT ["java", "-jar", "app.jar"]
