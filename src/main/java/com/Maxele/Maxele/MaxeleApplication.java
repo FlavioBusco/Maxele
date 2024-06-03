@@ -33,7 +33,7 @@ public class MaxeleApplication {
 			}*/
 
 
-			List<String> bestPath = findMaximumPaths("462647481", "6614678972");
+			List<String> bestPath = findMaximumPaths("462648177", "462646721");
 			System.out.println("Best path with maximum elevation gain: " + bestPath);
 			System.out.println("Maximum elevation gain: " + maxaltitudine + " meters");
 
