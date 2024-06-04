@@ -1,0 +1,120 @@
+2024-06-04 16:45:36 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Starting MaxeleApplication using Java 20.0.2 with PID 18580 (C:\Users\Utente\Desktop\maxe\Maxele\build\classes\java\main started by Utente in C:\Users\Utente\Desktop\maxe\Maxele)
+2024-06-04 16:45:36 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-04 16:45:36 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-04 16:45:36 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-04 16:45:37 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-04 16:45:37 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-04 16:45:37 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-04 16:45:37 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-04 16:45:37 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-04 16:45:37 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1181 ms
+2024-06-04 16:45:38 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-06-04 16:45:38 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-04 16:45:38 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Started MaxeleApplication in 2.191 seconds (process running for 2.667)
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 206.36521911621094 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 250.18797302246094 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 254.83892822265625 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 260.28375244140625 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 264.93470764160156 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 265.4503631591797 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 270.8951873779297 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 275.546142578125 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 276.180908203125 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 280.8318634033203 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 281.10169982910156 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 283.2844543457031 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 288.7292785644531 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 293.38023376464844 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 293.6500701904297 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 294.77227783203125 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 300.21710205078125 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 304.86805725097656 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 305.1378936767578 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 305.4083557128906 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 305.6781921386719 meters
+2024-06-04 16:45:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 305.8872833251953 meters
+2024-06-04 16:45:40 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 307.8193359375 meters
+2024-06-04 16:45:40 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 308.08917236328125 meters
+2024-06-04 16:45:40 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 308.35963439941406 meters
+2024-06-04 16:45:40 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 308.6294708251953 meters
+2024-06-04 16:45:40 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 308.83856201171875 meters
+2024-06-04 16:45:41 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 10000
+2024-06-04 16:45:44 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 20000
+2024-06-04 16:45:47 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 30000
+2024-06-04 16:45:50 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 40000
+2024-06-04 16:45:54 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 50000
+2024-06-04 16:45:54 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 308.8692932128906 meters
+2024-06-04 16:45:55 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 309.13975524902344 meters
+2024-06-04 16:45:55 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 309.4095916748047 meters
+2024-06-04 16:45:55 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 309.6186828613281 meters
+2024-06-04 16:45:57 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 60000
+2024-06-04 16:46:00 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 70000
+2024-06-04 16:46:03 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 80000
+2024-06-04 16:46:10 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Starting MaxeleApplication using Java 20.0.2 with PID 18780 (C:\Users\Utente\Desktop\maxe\Maxele\build\classes\java\main started by Utente in C:\Users\Utente\Desktop\maxe\Maxele)
+2024-06-04 16:46:10 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-04 16:46:10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-04 16:46:10 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-04 16:46:11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-04 16:46:11 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-04 16:46:11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-04 16:46:11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-04 16:46:11 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-04 16:46:11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1212 ms
+2024-06-04 16:46:12 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-06-04 16:46:12 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-04 16:46:12 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Started MaxeleApplication in 2.243 seconds (process running for 2.648)
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 206.36521911621094 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 250.18797302246094 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 254.83892822265625 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 260.28375244140625 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 264.93470764160156 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 265.4503631591797 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 270.8951873779297 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 275.546142578125 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 276.180908203125 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 280.8318634033203 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 281.10169982910156 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 283.2844543457031 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 288.7292785644531 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 293.38023376464844 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 293.6500701904297 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 294.77227783203125 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 300.21710205078125 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 304.86805725097656 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 305.1378936767578 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 305.4083557128906 meters
+2024-06-04 16:46:12 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 305.6781921386719 meters
+2024-06-04 16:46:13 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 305.8872833251953 meters
+2024-06-04 16:46:14 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 307.8193359375 meters
+2024-06-04 16:46:14 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 308.08917236328125 meters
+2024-06-04 16:46:14 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 308.35963439941406 meters
+2024-06-04 16:46:14 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 308.6294708251953 meters
+2024-06-04 16:46:14 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 308.83856201171875 meters
+2024-06-04 16:46:15 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 10000
+2024-06-04 16:46:19 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 20000
+2024-06-04 16:46:19 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-04 16:46:19 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-04 16:46:19 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-04 16:46:22 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 30000
+2024-06-04 16:46:26 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 40000
+2024-06-04 16:46:29 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 50000
+2024-06-04 16:46:29 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 308.8692932128906 meters
+2024-06-04 16:46:30 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 309.13975524902344 meters
+2024-06-04 16:46:30 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 309.4095916748047 meters
+2024-06-04 16:46:30 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 309.6186828613281 meters
+2024-06-04 16:46:32 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 60000
+2024-06-04 16:46:35 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 70000
+2024-06-04 16:46:38 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 80000
+2024-06-04 16:46:40 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - New best elevation gain: 309.7002258300781 meters
+2024-06-04 16:46:42 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 90000
+2024-06-04 16:46:45 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 100000
+2024-06-04 16:46:48 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 110000
+2024-06-04 16:46:51 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 120000
+2024-06-04 16:46:54 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 130000
+2024-06-04 16:46:57 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 140000
+2024-06-04 16:47:00 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 150000
+2024-06-04 16:47:04 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 160000
+2024-06-04 16:47:07 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 170000
+2024-06-04 16:47:10 [restartedMain] INFO  com.Maxele.Maxele.MaxeleApplication - Paths found: 180000
