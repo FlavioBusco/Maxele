@@ -5,7 +5,7 @@
 
         <!-- Policy per la rotazione basata sulla dimensione -->
         <triggeringPolicy class="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy">
-            <maxFileSize>10KB</maxFileSize>
+            <maxFileSize>4KB</maxFileSize>
         </triggeringPolicy>
 
         <!-- Policy per la gestione dei file ruotati -->
